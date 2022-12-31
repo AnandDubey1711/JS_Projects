@@ -1,0 +1,47 @@
+.cards {
+    transition: transform .4s ease-in;
+     display: inline-flex;
+    padding: 0px 30px 40px 60px;
+}
+.cards:hover{
+    transform: scale(1.02);
+    
+}
+
+.card_item:hover{
+    border:2px solid rgb(150, 230, 250);
+    transition: transform .5s ease-in-out;
+}
+
+.project{
+    font-size: 15px;
+    color:black;
+    padding: 5px;
+    text-decoration: none;
+    border:2px solid black;
+    border-radius: 5px;
+    transition: 0.2s ease-in;
+
+}
+
+
+.project:hover{
+    background-color: orange;
+    color:black;
+    
+}
+.demo{
+    font-size: 15px;
+    color:black;
+    padding: 5px;
+    text-decoration: none;
+    border:2px solid black;
+    border-radius: 5px;
+    transition: 0.2s ease-in;
+
+}
+.demo:hover{
+    background-color: orange;
+    color:black;
+    
+}
