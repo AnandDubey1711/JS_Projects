@@ -11,6 +11,11 @@ const App = () => {
       title="project1" project="Tic Tac Toe" description="This is a gaming JavaScript Project which allows the user to play Tic Tac Toe against an AI with its own set of Algorithms"
       project_link="https://github.com/AnandDubey1711/JavaScript-Projects"
       demo="https://tic-tac-toe-akd1711.netlify.app"   />
+    
+    <Cards link="https://www.irpcommerce.com/IRPStrategyCenter/Interface/DisplayImages/55.jpg"
+      title="project10" project="Speed Typing" description="This is a Vanilla Javascript minor type speed project which allows user to pratice their typing skills with random quotes"
+      project_link="https://github.com/AnandDubey1711/JavaScript-Projects"
+      demo="https://comfy-lamington-b39103.netlify.app/"   />
 
       <Cards link="https://images.pexels.com/photos/6373305/pexels-photo-6373305.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       title="project2" project="HomePage" description="This is a JavaScript Project which consits of a portfolio webpage for any individual which allows the recuiter to get an overview"
